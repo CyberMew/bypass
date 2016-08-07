@@ -18,7 +18,7 @@ var defaultSites = {
   'OrlandoSentinel': 'orlandosentinel.com',
   'Quora': 'quora.com',
   'SunSentinel': 'sun-sentinel.com',
-  'The Straits Times': `straitstimes.com',
+  'The Straits Times': 'straitstimes.com',
   'The Sydney Morning Herald': 'smh.com.au',
   'The Telegraph': 'telegraph.co.uk',
   'The Washington Post': 'washingtonpost.com',
